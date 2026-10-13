@@ -1,6 +1,6 @@
 # Freedom Browser (自由工坊 neo client)
 
-This repository is `FreeTWAI-AI/freedom-browser`, a public fork of
+This repository is `FreeTWAI/freedom-browser`, a public fork of
 [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS)
 (upstream repository id `985839104`). It is licensed under the GNU Affero
 General Public License version 3 or later (AGPL-3.0-or-later). Upstream
